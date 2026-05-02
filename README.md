@@ -1,7 +1,9 @@
 # ROBOT-ARM
 ## Gesture-Controlled Teleoperation Robotic Arm
 
-This project implements a teleoperation system, consisting of an anthropomorphic robotic arm controlled remotely by a sensory glove. By translating natural human hand and arm movements into mechanical actions, it creates a highly intuitive human-machine interface (HMI). This project serves as an accessible educational platform for robotics, with real-world applications extending to hazardous material handling, telemedicine, and the development of bionic prosthetics.
+This project implements a teleoperation system consisting of an anthropomorphic robotic arm controlled remotely by a sensory glove. By translating natural human hand and arm movements into mechanical actions, it creates a highly intuitive human-machine interface (HMI). This project serves as an accessible educational platform for robotics, with real-world applications extending to hazardous material handling, telemedicine, and the development of bionic prosthetics.
+
+It is part of a university project for the Electrical Measurements and Sensors discipline. You can find the full documentation for the university project in the attached files, written in Romanian: [documentatie_robot_arm.pdf](documentatie_robot_arm.pdf).
 
 ### System Architecture and Demonstration
 
